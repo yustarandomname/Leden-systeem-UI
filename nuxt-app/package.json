@@ -8,6 +8,7 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@formkit/nuxt": "^1.0.0-beta.11",
     "@nuxtjs/tailwindcss": "^5.3.5",
     "daisyui": "^2.31.0",
     "nuxt": "3.0.0-rc.11"
